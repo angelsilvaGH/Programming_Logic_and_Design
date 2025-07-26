@@ -2,7 +2,7 @@
 * Objective: Kotlin Practice Code File
 * Class: 2025 SU ITSE-1329-23701
 * Instructor: Professor Vo
-* Student: Angel Silva, ID 2521604
+* Student: Angel Silva
 * Date: ##/##/2025
 */
 
